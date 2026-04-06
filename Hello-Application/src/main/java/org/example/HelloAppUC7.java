@@ -16,4 +16,5 @@ public class HelloAppUC7 {
         // Print the greeting
         System.out.println(greeting);
     }
+
 }
